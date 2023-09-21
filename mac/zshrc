@@ -112,6 +112,7 @@ alias mini='ssh -p 2424 mercury.twilightstar.net'
 alias mars='ssh mars.twilightstar.net'
 alias pluto='ssh pluto.twilightstar.net'
 alias udm="ssh root@192.168.0.1"
+alias udmp="ssh root@192.168.10.1"
 alias socks5='ssh -D 8123 -f -C -q -N -p 2323 greg@mercury.twilightstar.net'
 alias vnc='ssh -L 5902:localhost:5902 -p 2323 greg@mercury.twilightstar.net'
 
